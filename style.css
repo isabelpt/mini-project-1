@@ -1,0 +1,47 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #90b1d1;
+}
+
+h1 {
+  color: rgb(251, 142, 186);
+  background-color: #78e0f5;
+  width: 72%;
+  margin-left: 14%;
+  margin-right: 14%;
+  //text-align: center;
+}
+
+#images {
+  text-align: center;
+}
+
+img {
+  width: 22%;
+  padding: 1%;
+  text-align: center;
+  clear: none;
+}
+
+.fact {
+  width: 24%;
+  padding: 0%;
+  text-align: center;
+  clear: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(251, 142, 186);
+}
+
+a:hover {
+  color: #fcc2f6;
+}
+
+#links {
+  font-size: 25px;
+}
